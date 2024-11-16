@@ -21,3 +21,6 @@ These categories typically correspond to whether a tweet is about a real-world d
 
 ## Part-4 Deployment with Web Interface
 Finally, we deployed the model successfully by using Deep learning techniques.
+
+## Conclusion
+This project aimed to develop an efficient NLP-based system for classifying tweets related to disaster or non disaster tweets. The task of categorizing tweets into relevant disaster-related classes (e.g., whether they report or mention an ongoing disaster or provide useful information) is an important component of real-time disaster response and emergency management systems.In conclusion, this project highlights the power of machine learning and NLP techniques to improve disaster response systems, ensuring that timely, relevant information can be leveraged during critical moments of crisis.
